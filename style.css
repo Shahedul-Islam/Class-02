@@ -1,0 +1,46 @@
+*{
+    font-family: Lato;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px;
+    display: flex;
+}
+img{
+    max-width: 100%;
+}
+h2{
+    font-weight: 500;
+    font-size: 30px;
+}
+small{
+    font-size: 20px;
+    font-weight: 300;
+}
+span{
+    text-decoration: line-through;
+    font-weight: 300;
+}
+
+h3{
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.content{
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px;
+    display: flex;
+}
+
+.prodect{
+    max-width: 25%;
+    padding-right: 8px;
+}
+.prodect,h2{
+    font-weight: 300;
+}
